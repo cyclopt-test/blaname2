@@ -11,7 +11,7 @@ You can play around (run and edit) the Algorithms or contribute to them using Gi
 
 ### All algorithms implemented in Java (for education)
 These implementations are for learning purposes. They may be less efficient than the implementations in the Java standard library.
-
+ 
 ## Contribution Guidelines
 Read our [Contribution Guidelines](CONTRIBUTING.md) before you contribute.
 
